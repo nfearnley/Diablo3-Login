@@ -6,13 +6,11 @@ Summary
 
 This is a Diablo 3 login helper, useful when you keep getting Error 37 messages.
 
-Manual Mode
-~~~~~~~~~~~
+### Manual Mode
 
 When an error message pops up, press one button to close the error message and retry the login
 
-Automatic Mode
-~~~~~~~~~~~~~~
+### Automatic Mode
 
 When an error message pops up, the script automatically closes the popup and retries the login
 
@@ -26,8 +24,7 @@ You need autohotkey installed to use this script
 Instructions
 ------------
 
-Setup
-~~~~~
+### Setup
 
 1. Run the script, and it will ask you for your password
 
@@ -37,15 +34,13 @@ Setup
 
 4. Attempt to login normally
 
-Manual Mode
-~~~~~~~~~~~
+### Manual Mode
 
 5. When prompted with an error message, press backslash "\" (usually above your enter key)
 
 6. The script will close the login, reenter your password, and reattempt the login
 
-Automatice Mode
-~~~~~~~~~~~~~~~
+### Automatice Mode
 
 5. When prompted with an error message, press left square bracket "[" to start automatic mode
 
